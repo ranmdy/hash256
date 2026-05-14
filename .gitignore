@@ -1,0 +1,15 @@
+# Dependencies
+hash256-cli/node_modules/
+
+# Environment / secrets
+hash256-cli/.env
+**/.env
+
+# Rust build artifacts
+hash256-miner/target/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
